@@ -1,0 +1,2 @@
+# HospitalTriage
+Hospital application
